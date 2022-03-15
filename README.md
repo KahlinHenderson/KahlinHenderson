@@ -8,6 +8,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="10%" height="10%">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="10%" height="10%">
+
+
+
 
 
 
