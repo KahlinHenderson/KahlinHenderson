@@ -2,6 +2,7 @@
 
 
 - :heart: Love Computer Science
+- :heart: Love learning and solving problems
 - Looking to collaborate with like-minded engineers :thinking:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahlinhenderson)](https://github.com/kahlinhenderson/github-readme-stats)
