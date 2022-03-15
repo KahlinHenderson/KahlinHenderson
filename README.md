@@ -1,4 +1,5 @@
 - :heart: Computer Science and programming
-- :heart: collaborating with like-minded engineers
-- ⚡ Fun fact: ... cats
+- :thinking: Looking to collaborate with like-minded engineers
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahlinhenderson)](https://github.com/kahlinhenderson/github-readme-stats)
 
