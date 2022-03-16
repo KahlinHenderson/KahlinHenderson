@@ -1,8 +1,8 @@
-### Backend Engineer with experience in web and mobile development.
+### Backend Engineer with experience in web and mobile development
 
 
 - :heart: I love Computer Science
-- :zap: I'm enthusiastic about learning new tech and solving problems.
+- :zap: I'm enthusiastic about learning new tech and solving problems
 - I'm looking to collaborate with like-minded engineers :thinking:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahlinhenderson)](https://github.com/kahlinhenderson/github-readme-stats)
