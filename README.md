@@ -1,4 +1,4 @@
-### Backend Engineer with experience in web and mobile development
+### Software Engineer with experience in web and mobile development
 
 
 - :heart: I love Computer Science
